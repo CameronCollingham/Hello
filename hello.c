@@ -8,9 +8,11 @@
 #include<stdlib.h>
 #include<stdio.h>
 
+//changes made were because of assignment requirements
+
 int main(int argc, char **argv) {
 
-  printf("Cameron Collingham, Keith Whitehead\n");
+  printf("Cameron Collingham, my major is computer science\n");
 
   return 0;
 }
